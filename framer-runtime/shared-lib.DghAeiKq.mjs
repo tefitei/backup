@@ -1,2 +1,0 @@
-﻿import{t as e}from"./rolldown-runtime.BvHXOKAc.mjs";function t(e,t){return{description:`Segredos que me fazem faturar 8 dígitos anuais com micro ofertas. Você verá nos meus stories de melhores amigos alguns dos segredos que fazem parte da caixa preta do meu negócio que gera acima de 9 dígitos por ano (mais de R$100 milhões)!`,favicon:`favicon-new.png`,robots:`max-image-preview:large`,socialImage:`favicon-new.png`,title:`Protocolo Homem Magnético`}}var n=e((()=>{}));export{t as n,n as t};
-//# sourceMappingURL=shared-lib.DghAeiKq.mjs.map
